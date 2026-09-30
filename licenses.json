@@ -1,0 +1,5 @@
+{
+  "payload": "{\"v\":1,\"seq\":1790763310,\"issuedAt\":\"2026-09-30T10:15:10.603Z\",\"validUntil\":\"2026-10-03T10:15:10.603Z\",\"allowed\":[]}",
+  "kid": "k1",
+  "sig": "PZURlZuicyyrGlOtRFwNNu0UglEQyLcgcn6GYrTchOi4Sjtw6yGTqaq3x3sozk6hct3TcGGyGXnEY7vsbNgYAg=="
+}
