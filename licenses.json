@@ -1,5 +1,5 @@
 {
-  "payload": "{\"v\":1,\"seq\":1791303739,\"issuedAt\":\"2026-10-06T16:22:19.577Z\",\"validUntil\":\"2026-10-09T16:22:19.577Z\",\"allowed\":[\"ysnb-k5vr\"]}",
+  "payload": "{\"v\":1,\"seq\":1791375739,\"issuedAt\":\"2026-10-07T12:22:19.882Z\",\"validUntil\":\"2026-10-10T12:22:19.882Z\",\"allowed\":[\"ysnb-k5vr\"]}",
   "kid": "k1",
-  "sig": "U5c5fnI0Ivjl9GwLDF+pECyL7HfcrDh3fWGOznX+lVL5N/JAWEVL4cJz5gYj8UVtxs4N+I8IjZE+uabZeQTqCg=="
+  "sig": "4W+sDm4Us4WN4XSo6+30cyJ/zldTlDTklN+DDG4ZeqzW+iduXPeefpWhWyQh35P9UjmMTDXLXkI3sN3ZglBuDg=="
 }
